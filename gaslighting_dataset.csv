@@ -1,0 +1,213 @@
+id,text,label
+1,You're overreacting and making a scene.,1
+2,I'm not here to win an argument — I'm here to connect.,0
+3,I'll take responsibility for my part in this.,0
+4,You're just looking for things to be upset about.,1
+5,You're just trying to make me feel bad.,1
+6,That wasn't my intention but I can see how it landed badly.,0
+7,You're reading into things that aren't there.,1
+8,I want to be transparent about my intentions.,0
+9,You were never mistreated — you imagined it.,1
+10,You can't even keep your story straight.,1
+11,I may have been wrong about how I handled that.,0
+12,Your concerns are legitimate and I hear them.,0
+13,Let's slow down and listen to each other properly.,0
+14,You always exaggerate everything.,1
+15,"You're remembering it wrong, as always.",1
+16,"I hear you, that sounds really hard.",0
+17,What can I do to help you feel more comfortable?,0
+18,"You never pay attention, so of course you're confused.",1
+19,"You're right, I should have handled that better.",0
+20,Your perception is always off.,1
+21,"You're being unreasonable, as always.",1
+22,This is exactly why people don't take you seriously.,1
+23,Let me try to explain my side of things clearly.,0
+24,"Okay I see your side, here's mine — can we meet in the middle?",0
+25,Let me share my perspective and then hear yours.,0
+26,Can we discuss what actually happened?,0
+27,You need to calm down because you're not thinking clearly.,1
+28,You're way too in your feelings right now to think clearly.,1
+29,You never remember anything correctly.,1
+30,I respect your experience even if mine was different.,0
+31,I'm sorry that my actions made you feel that way.,0
+32,Your reaction makes sense given what you experienced.,0
+33,You've been like this forever — it's exhausting.,1
+34,"You're the one with the problem here, not me.",1
+35,You're reading way too much into this.,1
+36,Let's take a break and come back to this later.,0
+37,I think there was a miscommunication between us.,0
+38,"Bro you're literally making this up, that did not happen.",1
+39,I'm not here to argue — I want to resolve this.,0
+40,You're looking for attention again.,1
+41,"My perspective is different, but yours is equally valid.",0
+42,I want to understand your side of the story.,0
+43,We can work through this if we communicate openly.,0
+44,I acknowledge that this has been hard for you.,0
+45,You're literally hallucinating at this point.,1
+46,You're confused again — just trust me on this.,1
+47,You're not making any sense right now.,1
+48,You need to stop living in your head.,1
+49,You always do this when you know you're wrong.,1
+50,You need help because you're seeing things that aren't real.,1
+51,Your feelings are completely irrational.,1
+52,I think we're talking past each other a little.,0
+53,It's okay that we see it differently.,0
+54,You're too sensitive to be part of this discussion.,1
+55,You always confuse what happened with what you wish happened.,1
+56,I'll try to be clearer with my words going forward.,0
+57,You always have to make everything about you.,1
+58,You always manage to twist things.,1
+59,You're putting words in my mouth again.,1
+60,That is simply not true and you know it.,1
+61,I'm glad you told me how you're feeling.,0
+62,"You're the problem here, not me.",1
+63,"I already explained this to you three times, pay attention.",1
+64,I think we need to communicate more clearly.,0
+65,"I was wrong about that, I'm sorry.",0
+66,You always twist everything I say.,1
+67,Your feelings are valid even if I don't fully understand them.,0
+68,Your memory of this matters and I take it seriously.,0
+69,You're blowing this completely out of proportion.,1
+70,You can't even remember what happened yesterday.,1
+71,Your feelings aren't based in reality.,1
+72,You're too emotional to think straight right now.,1
+73,You're so paranoid all the time.,1
+74,I didn't realize that came across that way.,0
+75,I get why you'd feel that way honestly.,0
+76,Can we sit down and talk about this together?,0
+77,"Everyone agrees with me, not you.",1
+78,I think we both have valid concerns here.,0
+79,I appreciate that you're willing to talk about it.,0
+80,You're exhausting when you get like this.,1
+81,Nobody believes you when you say things like that.,1
+82,"I'm trying to understand, not to argue.",0
+83,You're being ridiculous right now.,1
+84,It seems like this has been weighing on you.,0
+85,You're being irrational and you need to stop.,1
+86,"I know I'm not perfect, but I'm trying.",0
+87,I disagree with your interpretation of the situation.,0
+88,I'm sorry you feel hurt by what I said.,0
+89,I never said that. You must have dreamed it.,1
+90,You're so difficult to deal with sometimes.,1
+91,You're imagining slights that don't exist.,1
+92,I can see why that would frustrate you.,0
+93,I think we see this situation differently.,0
+94,I never did that; you're lying to yourself.,1
+95,"You're not making any sense, as usual.",1
+96,Let's talk about this calmly and figure it out.,0
+97,You're crazy if you believe that.,1
+98,Let's agree to disagree on this one.,0
+99,You're being manipulative right now.,1
+100,Stop being so dramatic about everything.,1
+101,I didn't mean to make you feel dismissed.,0
+102,I remember the event differently from you.,0
+103,Your reaction makes no sense at all.,1
+104,You always misremember things.,1
+105,"I'm not trying to fight, I just want to clear this up.",0
+106,"I want to understand, not to dismiss you.",0
+107,Your version of events is totally inaccurate.,1
+108,You're too sensitive to have this conversation.,1
+109,I feel like we're both trying to be heard right now.,0
+110,"I don't want to argue, I want to understand.",0
+111,Let's try to find a middle ground on this.,0
+112,You made that whole thing up.,1
+113,You always blow things out of proportion.,1
+114,We can disagree and still respect each other.,0
+115,"Let's approach this as a team, not adversaries.",0
+116,Can we both share what we remember without it turning into a fight?,0
+117,Can we focus on understanding rather than being right?,0
+118,"I see your point, but I have a different perspective.",0
+119,"You have a terrible memory, you can't trust yourself.",1
+120,You're making me look bad for no reason.,1
+121,It sounds like this is really bothering you.,0
+122,Let's try to figure this out together.,0
+123,It's okay for us to have different memories of it.,0
+124,You're imagining things again.,1
+125,I think we need to revisit that conversation.,0
+126,I'm willing to listen to what you have to say.,0
+127,"You're confused again, that's all.",1
+128,Can you help me understand why you feel that way?,0
+129,You're twisting my words deliberately.,1
+130,You're just being paranoid as usual.,1
+131,I realize now that I could have been clearer.,0
+132,You need to listen to yourself — you sound unhinged.,1
+133,That sounds really frustrating — I'm sorry.,0
+134,You're acting hysterical for no reason.,1
+135,I'd like to understand your point of view better.,0
+136,Can we revisit this topic with fresh eyes?,0
+137,You're acting crazy and everyone can see it.,1
+138,You sound crazy when you say things like that.,1
+139,I want to be honest with you about what I remember.,0
+140,You're projecting your own issues onto me.,1
+141,You were never upset about this before — why now?,1
+142,I want to hear what happened from your perspective.,0
+143,Why do you always have to be so paranoid?,1
+144,I want to make sure we're on the same page.,0
+145,Nothing like that ever occurred.,1
+146,Can you not be like this for once?,1
+147,Nobody else thinks it happened that way.,1
+148,I apologize if my words came across badly.,0
+149,"I know this is hard, but I want to work it out.",0
+150,I hear you and I want to talk about this.,0
+151,"Hey I think we just interpreted that differently, want to talk it through?",0
+152,You can't trust your own judgment — you never could.,1
+153,You're acting like a child right now.,1
+154,You have no basis for feeling that way.,1
+155,You are completely wrong about what happened.,1
+156,That is NOT what I said and you know it.,1
+157,You have no idea what you're talking about.,1
+158,You never make any sense.,1
+159,"I didn't see it that way, but I get where you're coming from.",0
+160,We both deserve to feel heard in this conversation.,0
+161,I never meant it that way — you misinterpreted everything.,1
+162,There is no way that happened the way you think.,1
+163,Your memory is unreliable and you know it.,1
+164,You're just trying to start a fight.,1
+165,I'm not trying to dismiss what you experienced.,0
+166,I hear that you're frustrated and I want to help.,0
+167,You're remembering it wrong on purpose.,1
+168,I'm open to talking about what upset you.,0
+169,You're making this into something it isn't.,1
+170,I care about your wellbeing and want to fix this.,0
+171,"I didn't mean to hurt you, but I hear that I did.",0
+172,We both seem to remember this differently.,0
+173,"I think honesty is important here, so let me share my truth.",0
+174,You always turn things around on me.,1
+175,Everyone thinks you're overreacting.,1
+176,"I never said that, check your own texts.",1
+177,"Nobody else has a problem with this, just you.",1
+178,I think there might be a misunderstanding here.,0
+179,I think we just need to talk this out calmly.,0
+180,Thank you for telling me how you feel.,0
+181,You always have to be the victim.,1
+182,You're not as smart as you think you are.,1
+183,You always do this — make things up.,1
+184,You're being way too sensitive about this.,1
+185,You're making yourself the victim again.,1
+186,Can you explain what upset you about that moment?,0
+187,"That's a fair point, let me think about that.",0
+188,I don't want this to come between us.,0
+189,Your feelings matter and I take them seriously.,0
+190,You're delusional if you think that happened.,1
+191,Can we both agree to listen without interrupting?,0
+192,Let's just slow down and figure out what actually happened.,0
+193,That never happened and you know it.,1
+194,You're the only one who thinks that happened.,1
+195,I think we should both share our perspectives.,0
+196,Your feelings don't need to be justified to be real.,0
+197,Let's both share what we remember without judgment.,0
+198,"You misheard me, you always mishear me.",1
+199,You're always twisting what I say to win arguments.,1
+200,I think both of us have valid points here.,0
+201,You always see the negative in everything.,1
+202,You see problems where there are none.,1
+203,I understand why you feel that way.,0
+204,"I'm genuinely sorry, I didn't realize how that came across.",0
+205,You're overreacting as usual.,1
+206,I think talking to someone together might help us.,0
+207,That's not how any of this works — you just don't get it.,1
+208,You're lying to yourself because you can't handle the truth.,1
+209,You have a habit of misremembering things.,1
+210,You've always had this problem with reality.,1
+211,I'm not dismissing your experience at all.,0
+212,This is exactly the kind of thing you do — create drama.,1
